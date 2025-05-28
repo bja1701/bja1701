@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bja1701
-- 👀 I’m interested in Robotics, ROS, Computer Vision, etc.
+- 👀 I’m interested in anything robotics!
 
 <!---
 bja1701/bja1701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
